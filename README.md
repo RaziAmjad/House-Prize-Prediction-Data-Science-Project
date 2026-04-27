@@ -17,10 +17,15 @@ A machine learning project that predicts Boston house prices using a Random Fore
 
 House Prize Prediction/
 ├── boston.csv                        # Dataset
+
 ├── boston_house_price_prediction.ipynb  # Main notebook
+
 ├── data_split.pkl                    # Saved train/test split
+
 ├── model.pkl                         # Trained model
+
 ├── result.png                        # Actual vs Predicted plot
+
 └── house_price_project/
     └── venv/                         # Python virtual environment
 
