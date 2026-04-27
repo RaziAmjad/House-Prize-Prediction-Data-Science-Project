@@ -3,9 +3,13 @@ Leader Razi Amjad 176
 Contributed By
 
 Eman Fazal 181
+
 Fatima Zaffar 165
+
 Falak Shehzad 163
+
 Sajal Shehwar 192
+
 Muaz Asif 184
 
 
@@ -16,6 +20,7 @@ A machine learning project that predicts Boston house prices using a Random Fore
  Project Structure
 
 House Prize Prediction/
+
 ├── boston.csv                        # Dataset
 
 ├── boston_house_price_prediction.ipynb  # Main notebook
@@ -49,9 +54,8 @@ The notebook is split into 4 scripts:
 bash
 1. Activate virtual environment
 venv\Scripts\activate        # Windows
-source venv/bin/activate     # Mac/Linux
 
- 2. Install dependencies (if needed)
+ 2. Install dependencies
 pip install pandas scikit-learn matplotlib
 
  3. Run the notebook cells in order, or run scripts individually
@@ -59,7 +63,7 @@ python preprocess.py
 python train_model.py
 python evaluate.py
 python predict.py
-```
+
 
  Output
 
